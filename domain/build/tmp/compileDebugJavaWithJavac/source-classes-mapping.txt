@@ -1,0 +1,2 @@
+ru/babaets/bitcoinprices/domain/BuildConfig.java
+ ru.babaets.bitcoinprices.domain.BuildConfig
